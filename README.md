@@ -1,56 +1,27 @@
-### Hi, Rayan here 👋
+# Hi, I'm [Rayan](https://www.instagram.com/rayan._.aziz12/)! 👋
+
+>  💻 Game Developer | C# and Unity
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsMeRayZ/itsMeRayZ/main/Banner.png" width="100%" title="Banner" alt="Banner">
-</p>
+I am an Indie Game Developement from :house: Rawalpindi, Pakistan.
 
-I am an 18 years old a 👨‍💻 **`Game Developer`**, occasional **`Graphic Designer`**, and a **`3D Modeller`**.
+My passion lies in solving challenging problems and designing algorithms.
+I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-Founder/CEO of 💼 **`@Default-Studio`** as a Solo Member of the Studio.
+In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: and watch movies :tv:.
 
- 👨‍💻 I'm currently working on a Shooter Game - **THE UNKNOWN**.
- 
- 🚀 I’m currently learning **Unity** and **C#**.
- 
- 👯 I’m looking to collaborate for my **Game**.
-
- 💬 Ask me about anything about 3D Modelling, Programming, Graphic Designing.
+I enjoy learning new things and connecting with people across a range of industries. 
+If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ---
 
-
-### Tech & Tools Preference 🎓
-
-~ C#
-~ HTML5
-~ CSS
-~ JavaScript
-~ Java
-~ Dart
-~ Unity Game Engine
-~ Blender 3D Tool
-~ Photoshop
-~ Github
-~ VS Code
-
-### Other Languages I know
-
-~ PHP
-~ C & C++
-~ Typescript
-
----
-
-
-### You can find me on the web 🌍
-
-[![Twitter](https://img.shields.io/twitter/follow/NotGameDev?style=social)][twitter]
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
-
----
-
-Let's connect 👨‍💻 and forge the future together. ✌ 
-
-**Check the Repositories and don't forget to give a star.**
+##  🎉 Skills  🎉
+- **Game Developement**: Unity Engine
+- **Graphic Designing**: Photoshop
+- **3D Modelling**: Blender
+- **UI Frameworks**: Material-UI, Bootstrap
+- **Web technologies**: HTML5, CSS3
+- **Databases**: MongoDB (Mongoose), MySQL
+- **Misc**: Git, Typescript
+- **Languages**: C, C++, C#, Java, Python
